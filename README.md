@@ -1,1 +1,3 @@
-# implementations of some classical cryptographic algorithms
+# Cryptography
+
+Implementations of some classical cryptographic algorithms
